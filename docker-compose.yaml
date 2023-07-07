@@ -16,5 +16,5 @@ services:
     depends_on:
       - phonebook-mysql
     ports:
-      - "8181:8181"
+      - "8230:8181"
     restart: always
